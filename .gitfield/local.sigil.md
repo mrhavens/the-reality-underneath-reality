@@ -6,24 +6,24 @@
 - **Local Repo Path**: `/mnt/c/fieldcraft/the-reality-underneath-reality`
 - **Remote Label**: `local`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-17 10:17:31`
+- **Repo Created**: `2025-06-20 14:40:27`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-17 10:17:31`
-- **Last Commit SHA**: `ab31ab469ec48a1e3bb02ccb8f379569acb55ab8`
-- **Last Commit Message**: `Generated docs/integrity.sha256 at 2025-06-17T14:53:38Z`
+- **This Commit Timestamp**: `2025-06-20 14:40:27`
+- **Last Commit SHA**: `38149df4641b34fc44a3fdef0485e68f3e523ae6`
+- **Last Commit Message**: `Generated docs/integrity.sha256 at 2025-06-20T19:36:09Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Tue Jun 17 10:17:20 2025 -0500`
+- **Last Commit Date**: `Fri Jun 20 14:40:02 2025 -0500`
 - **This Commit URL**: `file:///home/mrhavens/git-local-repos/git-sigil.git`
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `64`
+- **Total Commits**: `88`
 - **Tracked Files**: `67`
 - **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
@@ -48,8 +48,8 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 3 hours, 41 minutes`
-- **MAC Address**: `00:15:5d:e5:7d:35`
+- **System Uptime**: `up 1 hour, 11 minutes`
+- **MAC Address**: `00:15:5d:c0:f2:fc`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
